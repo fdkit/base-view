@@ -1,0 +1,37 @@
+{
+  "name": "web-components",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sgkit/frontend-ui",
+  "authors": [
+    "shawnsandy <shawnsandy04@gmail.com>"
+  ],
+  "description": "Foluke/web-components",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "Frontend",
+    "Dev",
+    "UI"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "package/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.1",
+    "core-elements": "Polymer/core-elements#~0.5.1"
+  },
+  "devDependencies": {
+    "paper-tabs": "Polymer/paper-tabs#~0.5.2"
+  }
+}
